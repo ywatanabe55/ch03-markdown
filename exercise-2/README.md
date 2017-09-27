@@ -7,5 +7,5 @@ course title (in _italics_), and instructor.
 | Course Number | Course Title	| Instructor |
 | ------------- |  ------------- | ------------- |
 | **INFO201**| _Technical Foundations_ | Ott Toomet |
-| **LANG201**| _German for Beginners | Angela Merkel |
+| **LANG201**| _German for Beginners_ | Angela Merkel |
 | **PHYS101**| _Mechanics_	| Albert Einstein |
