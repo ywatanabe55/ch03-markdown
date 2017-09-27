@@ -15,4 +15,4 @@ the quote.
 > 
 > Then they came for me—and there was no one left to speak for me.
 
-Martin Niemöller [Wikiepdia](https://en.wikipedia.org/wiki/Martin_Niem%C3%B6ller).
+Martin Niemöller ([Wikiepdia](https://en.wikipedia.org/wiki/Martin_Niem%C3%B6ller)).
